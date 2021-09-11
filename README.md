@@ -17,5 +17,7 @@ I design a responsive furniture app UI using flutter, all of the data come from 
 
 ### Furniture App Final UI
 
-![App UI](/Poster.png)
+
+
+![Poster](https://user-images.githubusercontent.com/86840994/132943747-c608a0fe-38ea-47c6-9704-5f22691bcf43.png)
 
